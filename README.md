@@ -2,7 +2,7 @@
 I am a Data Analyst based in the UK. 
 
 ## Projects
-- [SQL Project](/8-week-SQL-challenge) :8 Week SQL Challenge
+- [SQL Project]([/8-week-SQL-challenge](https://github.com/hollye989/8-week-SQL-challenge)) :8 Week SQL Challenge
 
 <!--
 **hollye989/hollye989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
