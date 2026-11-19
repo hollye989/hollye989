@@ -1,4 +1,7 @@
 ## Hi there 👋
+## I am a Data Analyst based in the UK. 
+
+
 
 <!--
 **hollye989/hollye989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
