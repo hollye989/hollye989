@@ -2,7 +2,7 @@
 I am a Data Analyst based in the UK. 
 
 ## Projects
-- [SQL Project](https://github.com/hollye989/8-week-SQL-challenge) :8 Week SQL Challenge
+- [SQL Project](https://github.com/hollye989/8-week-SQL-challenge) : 8 Week SQL Challenge
 - [Tableau Project](https://public.tableau.com/app/profile/holly.ewens3908/viz/CostofaHealthyDiet-Version3/Dashboard) : What Makes a Healthy Diet Inaccessable?
 
 <!--
