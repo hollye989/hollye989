@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I am a Data Analyst based in the UK. 
 
-##Projects
+## Projects
 - [SQL Project](#8-week-SQL-challenge)
 
 <!--
