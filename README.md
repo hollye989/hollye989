@@ -3,6 +3,7 @@ I am a Data Analyst based in the UK.
 
 ## Projects
 - [SQL Project](https://github.com/hollye989/8-week-SQL-challenge) :8 Week SQL Challenge
+- [Tableau Project](https://public.tableau.com/app/profile/holly.ewens3908/viz/CostofaHealthyDiet-Version3/Dashboard) : Cost of a Healthy Diet Analysis and Visualisation
 
 <!--
 **hollye989/hollye989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
